@@ -1,2 +1,2 @@
 import requests
-URL = ""
+URL = "https://binance.com"
