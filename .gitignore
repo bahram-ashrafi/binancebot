@@ -17,7 +17,6 @@ __pycache__/
 # hg stuff
 *.orig
 status
-/.idea/
 
 # various virtualenv
 /bin/
@@ -29,3 +28,7 @@ status
 /share/
 /src/
 /venv/
+.idea
+/.idea
+.idea/
+/.idea/
